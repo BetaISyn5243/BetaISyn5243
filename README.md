@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @BetaISyn5243
 - 👀 I’m interested in Full-Stack web development and AI
+- 🧰 I tried to develop my own java for 4 years in high school and develop some image processing and finance app with freelance 
 - 🌱 I’m currently learning AI and web application also little IoT
 - 📫 I'm currently studying CE(Bachelor Degree) on Seçuk University at Turkey/Konya
 - ❓  If you have any idea do together please tell me also if you any employer please hire me :D

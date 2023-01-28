@@ -14,8 +14,8 @@ You can click the Preview link to take a look at your changes.
 #
 <p align="center">
  
- <img align="center" src="https://github-profile-trophy.vercel.app/?username=BetaISyn5243&margin-h=15&no-frame=true&theme=juicyfresh" >
- 
+ <img align="center" src="https://github-profile-trophy.vercel.app/?username=BetaISyn5243&column=7&margin-h=15&no-frame=true&theme=juicyfresh" >
+
 </p>
 <p align="center">
  <!--- <img height="150" width="150" src="WEBP/left.webp"> --->

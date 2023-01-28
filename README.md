@@ -12,9 +12,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 #
-
+<p align="center">
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=BetaISyn5243&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
-
+</p>
 <p align="center">
  <!--- <img height="150" width="150" src="WEBP/left.webp"> --->
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BetaISyn5243&theme=dark&hide_border=true"/>

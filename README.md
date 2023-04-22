@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/github/stars/BetaISyn5243?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
   <a href="https://github.com/sponsors/BetaISyn5243"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
 </p>
-#
+<br/>
 <p align="center">
  
  <img align="center" src="https://github-profile-trophy.vercel.app/?username=BetaISyn5243&column=7&margin-h=15&no-frame=true&theme=juicyfresh" >

@@ -10,19 +10,31 @@
 BetaISyn5243/BetaISyn5243 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p align="center">
+
+<div align="center">
   <!--<img src="https://gpvc.arturio.dev/BetaISyn5243" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  -->
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/BetaISyn5243?label=Followers&style=social"> •
-  <img src="https://img.shields.io/github/stars/BetaISyn5243?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
-  <a href="https://github.com/sponsors/BetaISyn5243"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
-    <img src="https://visitcount.itsvg.in/api?id=BetaISyn5243&label=Profile%20Views&color=1&icon=5&pretty=true" />
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/BetaISyn5243?label=Followers&style=social">
+  <img src="https://img.shields.io/github/stars/BetaISyn5243?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+  <a href="https://github.com/sponsors/BetaISyn5243" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+</div>
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=BetaISyn5243&label=Profile%20Views&color=1&icon=5&pretty=true" />
+  
+</div>
+<div align="center">
+  <a href="https://twitter.com/BetaISyn5243" target="_blank" rel="noopener noreferrer"><img alt="Twitter URL" src="https://img.shields.io/badge/X-%23E4405F.svg?logo=X&logoColor=white&color=blue" ></a>
+  <a href="https://www.instagram.com/batuhann_turgut/" target="_blank" rel="noopener noreferrer"> <img alt="Instagram URL" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&color=blue"></a> 
+  <a href="https://discord.gg/BetaISyn5243" target="_blank" rel="noopener noreferrer"> <img alt="Discord URL" src="https://img.shields.io/badge/Discord-%25237289DA.svg?logo=discord&logoColor=white&color=blue"></a> 
+  <a href="https://www.linkedin.com/in/batuhanturgut43/" target="_blank" rel="noopener noreferrer"> <img alt="LinkedIN URL" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a> 
 
-</p>
+</div>
+</div>
+
+
 <br/>
-<p align="center">
- 
- <img align="center" src="https://github-profile-trophy.vercel.app/?username=BetaISyn5243&column=7&margin-h=15&no-frame=true&theme=juicyfresh" >
 
+<p align="center">
+ <img align="center" src="https://github-profile-trophy.vercel.app/?username=BetaISyn5243&column=7&margin-h=15&no-frame=true&theme=juicyfresh" >
 </p>
 <p align="center">
  <!--- <img height="150" width="150" src="WEBP/left.webp"> --->
